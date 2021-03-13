@@ -1,4 +1,4 @@
-/*
+
 let continues = true
 cities = []
 
@@ -17,5 +17,4 @@ while(cities.length !== count) {
   let name = cities[count]
   console.log(name.toLowerCase())
   count ++
-  }
-*/
+
